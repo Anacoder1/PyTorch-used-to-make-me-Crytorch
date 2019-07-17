@@ -10,6 +10,7 @@ PyTorch was hard. Or so I thought. Here you can find various types of code writt
 7. [Deep Residual Network][7] - A Deep Residual Network (using a ResNet), used on the CIFAR-10 dataset
 8. [Recurrent Neural Network][8] - Training a many-to-one RNN on the MNIST dataset
 9. [Bidirectional Recurrent Neural Network][9] - A Bidirectional many-to-one RNN, applied to the MNIST dataset
+10. [Language Model (RNN-LM)][10] - RNN based Language model using the Penn Treebank dataset
 
 [1]: https://github.com/Anacoder1/PyTorch-used-to-make-me-Crytorch/blob/master/Codes/PyTorch/Training%20a%20classifier.ipynb
 [2]: https://github.com/Anacoder1/PyTorch-used-to-make-me-Crytorch/blob/master/Codes/PyTorch/PyTorch_Basics.ipynb
@@ -20,6 +21,7 @@ PyTorch was hard. Or so I thought. Here you can find various types of code writt
 [7]: https://github.com/Anacoder1/PyTorch-used-to-make-me-Crytorch/blob/master/Codes/PyTorch/Deep_Residual_Network.ipynb
 [8]: https://github.com/Anacoder1/PyTorch-used-to-make-me-Crytorch/blob/master/Codes/PyTorch/Recurrent_Neural_Network.ipynb
 [9]: https://github.com/Anacoder1/PyTorch-used-to-make-me-Crytorch/blob/master/Codes/PyTorch/Bidirectional_Recurrent_Neural_Network.ipynb
+[10]: https://github.com/Anacoder1/PyTorch-used-to-make-me-Crytorch/blob/master/Codes/PyTorch/Language_Model_(RNN_LM).ipynb
 
 
 
